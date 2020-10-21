@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="QIjiErp:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/QIjiErp_war_exploded</output-path>
+  <artifact type="exploded-war" name="QiJiErp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/QiJiErp_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="QIjiErp/web/Web" />
+      <element id="javaee-facet-resources" facet="QiJiErp/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="QIjiErp" />
+          <element id="module-output" name="QiJiErp" />
         </element>
       </element>
     </root>

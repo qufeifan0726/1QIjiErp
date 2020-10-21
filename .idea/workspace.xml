@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9531f34-fd3e-4481-8470-d6695519045c" name="Default Changelist" comment="Commit Message,">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QIjiErp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xinzhi/Dao/BaseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xinzhi/Dao/Impl/IPurchaseOrderSelect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xinzhi/entity/PoInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sssss/src/com/xinzhi/Dao/BaseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sssss/src/com/xinzhi/Dao/Impl/IPurchaseOrderSelect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sssss/src/com/xinzhi/entity/PoInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sssss/sssss.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sssss/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sssss/web/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jBOOm0IzL0KwtfU4k6VZhxtRLt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/QiJiErp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\QIjiErp\QiJiErp" />
+      <recent name="D:\idea\QIjiErp\sssss\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9531f34-fd3e-4481-8470-d6695519045c" name="Default Changelist" comment="" />
+      <created>1603273988657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603273988657</updated>
+      <workItem from="1603273993517" duration="6147000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit Message,">
+      <created>1603278883197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603278883197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit Message,">
+      <created>1603279690468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603279690468</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit Message,">
+      <created>1603280042052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603280042052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Message" />
+    <MESSAGE value="Commit Message," />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message," />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1603280385181">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1603280385181" />
+    <state x="644" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1603274654962">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="644" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1603274654962" />
+    <state x="572" y="184" key="FileChooserDialogImpl" timestamp="1603278590578">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="572" y="184" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603278590578" />
+    <state x="640" y="314" key="Github.ShareDialog" timestamp="1603279988506">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="640" y="314" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1603279988506" />
+    <state x="293" y="74" key="SettingsEditor" timestamp="1603279557008">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="293" y="74" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603279557008" />
+    <state x="178" y="0" key="new project wizard" timestamp="1603280307769">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1603280307769" />
+  </component>
+</project>
